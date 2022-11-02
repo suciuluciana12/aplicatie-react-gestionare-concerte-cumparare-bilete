@@ -1,0 +1,17 @@
+.cardImage {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 20px;
+}
+.cardConcert {
+  width: 200px;
+  height: 100%;
+}
+.cardTitle {
+  margin-top: 10px;
+}
+.concertLink {
+  text-decoration: none;
+  color: red;
+  text-align: center;
+}

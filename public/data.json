@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "src": "images/david_garrett.jpg",
+    "nume_concert": "David Garrett and the Band ",
+    "data_concert": "26-12-2022",
+    "ora": "22.00",
+    "locatie": "BT-Arena, Cluj-Napoca ,Sala Palatului,Bucuresti",
+    "pret_bilet": "120ron"
+  },
+  {
+    "id": "2",
+    "src": "images/evanescence.jpg",
+    "nume_concert": "Evanescence",
+    "data_concert": "15-07-2022",
+    "ora": "21:00",
+    "locatie": "Parcul Carol-Piata Libertatii , Bucuresti",
+    "pret_bilet": "300ron"
+  },
+  {
+    "id": "3",
+    "src": "images/the_motans.jpg",
+    "nume_concert": "The Motans-Anniversary tour ",
+    "data_concert": "20-12-2022",
+    "ora": "20.00",
+    "locatie": "Sala Olimpia, Cluj-Napoca ,Sala Palatului,Bucuresti",
+    "pret_bilet": "220ron"
+  },
+  {
+    "id": "4",
+    "src": "images/opeth.png",
+    "nume_concert": "Opeth ",
+    "data_concert": "26-12-2022",
+    "ora": "22.00",
+    "locatie": "Sala Constantin Jude , Palatul de Cultura, Iasi",
+    "pret_bilet": "250ron"
+  },
+  {
+    "id": "5",
+    "src": "images/opeth.png",
+    "nume_concert": "Opeth ",
+    "data_concert": "26-12-2022",
+    "ora": "22.00",
+    "locatie": "Sala Constantin Jude , Palatul de Cultura, Iasi",
+    "pret_bilet": "250ron"
+  },
+  {
+    "id": "6",
+    "src": "images/opeth.png",
+    "nume_concert": "Opeth ",
+    "data_concert": "26-12-2022",
+    "ora": "22.00",
+    "locatie": "Sala Constantin Jude , Palatul de Cultura, Iasi",
+    "pret_bilet": "250ron"
+  }
+]
